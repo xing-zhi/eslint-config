@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xing-zhi/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xing-zhi/eslint-config/issues"
+  },
+  "homepage": "https://github.com/xing-zhi/eslint-config#readme"
+}
