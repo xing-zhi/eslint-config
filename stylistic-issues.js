@@ -162,9 +162,6 @@ module.exports = {
   // 强制在`{`前添加一个空格
   "space-before-blocks": 2,
 
-  // 强制在特定关键字后添加一个空格
-  "space-after-keywords": [2, "always"],
-
   // 命名函数表达式()前面不允许有空格，匿名函数表达式()前面要添加一个空格
   // https://github.com/eslint/eslint/blob/master/docs/rules/space-before-function-paren.md
   "space-before-function-paren": [2, {"anonymous": "always", "named": "never"}],
