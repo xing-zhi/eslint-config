@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-xing-zhi",
   "version": "1.0.0",
   "description": "eslint config",
   "main": "index.js",
